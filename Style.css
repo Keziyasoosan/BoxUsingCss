@@ -12,22 +12,13 @@
     padding-bottom: 100px;
    
 
-}
-/*.container .heading{
-    text-align: center;
-    padding-bottom: 15px;
-    color: #1b1d13;
-    text-shadow: 0 5px 10 px rgba(16, 252, 240, 0.2);
-    font-size: 50px;
+} 
 
-     
-}
-    */
-    .container .box-container{
+.container .box-container{
         display: grid;
         grid-template-columns: repeat(auto-fit,minmax(270px,1fr));
         gap:15px;
-    }
+}
 .container .box{
     position: relative;
     width: 300px;
@@ -59,7 +50,7 @@
     
  }
  .container .box.shadow2{
-    box-shadow: -30px 30px 20px rgba(54, 48, 48, 0.3);
+    box-shadow: -30px 30px 20px rgba(34, 18, 18, 0.3);
    border-top-color:rgb(0, 66, 37);
    border-top-left-radius: 20px; 
     border-top-right-radius: 45px;
@@ -72,7 +63,7 @@
     padding: 30px 20px;
  }
  .container .box.shadow3 {
-    box-shadow: -30px 30px 20px rgba(54, 48, 48, 0.3);
+    box-shadow: -30px 30px 20px rgba(34, 18, 18, 0.3);
     border-top-color:rgb(255, 187, 0);
     border-top-left-radius: 20px; 
    border-top-right-radius: 45px;
@@ -87,7 +78,7 @@
     
  }
  .container .box.shadow4{
-    box-shadow: -30px 30px 20px rgba(54, 48, 48, 0.3);
+    box-shadow: -30px 30px 20px rgba(34, 18, 18, 0.3);
     border-radius: 20px;
     background: #fff;
     text-align: center;
@@ -100,7 +91,7 @@
      border-top-style: solid ;
  }
  .container .box.shadow5{
-    box-shadow: -30px 30px 20px rgba(54, 48, 48, 0.3);
+    box-shadow: -30px 30px 20px rgba(34, 18, 18, 0.3);
     border-radius: 20px;
     background: #fff;
     text-align: center;
@@ -113,7 +104,7 @@
      border-top-style: solid ;
  }
  .container .box.shadow6{
-    box-shadow: -30px 30px 20px rgba(54, 48, 48, 0.3);
+    box-shadow: -30px 30px 20px rgba(34, 18, 18, 0.3);
      border-radius: 20px;
     background: #fff;
     text-align: center;
