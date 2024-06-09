@@ -46,35 +46,34 @@
     border-bottom-right-radius: 45px;
     border-bottom-left-radius: 45px;
     border-top-style: solid ;
-    border-top-color: red;
+    border-top-color: rgb(255, 0, 13);
     
  }
  .container .box.shadow2{
     box-shadow: -30px 30px 20px rgba(34, 18, 18, 0.3);
    border-top-color:rgb(0, 66, 37);
-   border-top-left-radius: 20px; 
-    border-top-right-radius: 45px;
-    border-bottom-right-radius: 45px;
-    border-bottom-left-radius: 45px;
-    border-top-style: solid ;
+   border-top-style: solid ;
     border-radius: 20px;
     background: #fff;
     text-align: center;
     padding: 30px 20px;
+    border-top-left-radius: 20px; 
+    border-top-right-radius: 45px;
+    border-bottom-right-radius: 45px;
+    border-bottom-left-radius: 45px; 
  }
  .container .box.shadow3 {
     box-shadow: -30px 30px 20px rgba(34, 18, 18, 0.3);
     border-top-color:rgb(255, 187, 0);
-    border-top-left-radius: 20px; 
-   border-top-right-radius: 45px;
-     border-bottom-right-radius: 45px;
-     border-bottom-left-radius: 45px;
-     border-top-style: solid; 
-    
+    border-top-style: solid; 
     border-radius: 20px;
     background: #fff;
     text-align: center;
     padding: 30px 20px;
+    border-top-left-radius: 20px; 
+    border-top-right-radius: 45px;
+     border-bottom-right-radius: 45px;
+     border-bottom-left-radius: 45px;
     
  }
  .container .box.shadow4{
